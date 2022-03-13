@@ -1,0 +1,45 @@
+    
+fieldset{
+    padding: 10px;
+    background-image: url(photos/back.jpg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 1495px;
+    height: 100px;
+
+}
+.head{
+    font-size: 50px;
+    padding: 1px;
+    text-align: center;
+    font-style: italic;
+    font-weight: bolder;
+}
+body{
+    background-color: #dddde6;
+}
+.img{
+    box-sizing: content-box;
+width: 1470;
+border: solid #0c0c0e 10px;
+height: 250px;
+padding: 20px;
+background-color: #0c0c0e;
+position: relative;
+
+}
+img{
+    width: 340px;
+    height: 250px;
+    border: rgb(148, 144, 146);
+    border-style: double;
+    border-width: 10px;
+    border-radius: 5px;
+    bottom: 100px;
+}
+.h{
+    position: absolute;
+    bottom: auto;
+    color: #dddde6;
+
+}
